@@ -12,7 +12,7 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;
 .hero{background:var(--bg-gradient);padding:44px 20px 28px;text-align:center}
 .hero-inner{max-width:900px;margin:0 auto}
 .logo{display:inline-block;margin-bottom:12px}
-.logo-img{display:block;width:76px;height:auto;border-radius:6px}
+.logo-img{display:block;width:200px;height:auto;border-radius:6px}
 .hero h1{font-size:1.6rem;margin:6px 0;color:#0f3b49}
 .subtitle{color:var(--muted);margin:0}
 
